@@ -1,12 +1,3 @@
-e-learning/
-├── app.py
-├── static/
-│   └── styles.css
-└── templates/
-    ├── index.html
-    ├── courses.html
-    └── contact.html
-
 Explanation
 1. HTML: Defines the structure of your web pages.
 2. CSS: Adds styling to make your web pages look better.
