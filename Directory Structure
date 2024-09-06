@@ -1,11 +1,11 @@
 Directory Structure:
   Your project directory should look something like this:
 
-e-learning/ <br>
-├── app.py  <br>
-├── static/ <br>
-│   └── styles.css  <br>
-└── templates/      <br>
-    ├── index.html  <br>
-    ├── courses.html  <br>
-    └── contact.html  <br>
+e-learning/ 
+├── app.py  
+├── static/ 
+│   └── styles.css  
+└── templates/      
+    ├── index.html  
+    ├── courses.html  
+    └── contact.html  
